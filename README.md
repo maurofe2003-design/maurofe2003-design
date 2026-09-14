@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Desenvolvedor Back-End Júnior <br>
-⭐ Formando em Inteligência Artificial (conclusão prevista: jun/2026) <br>
+⭐ Formando em Inteligência Artificial  NA Universidade Cruzeiro do Sul (UNICSUL)  <br>
 🚀 Em busca da minha primeira oportunidade na área de desenvolvimento
 </p>
 
